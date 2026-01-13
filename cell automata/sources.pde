@@ -1,5 +1,5 @@
 
-https://processing.org/examples/gameoflife.html
+
 
 /**
  * Game of Life
