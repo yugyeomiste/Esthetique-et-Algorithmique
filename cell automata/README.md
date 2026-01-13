@@ -14,5 +14,5 @@ BARRE ESPACE : Relancer le Big Bang (Réinitialiser l'univers).
 
 # Sources
 
-Pour la logique de base des cellules (règles de survie et de naissance), je me suis aidé du code "Game of Life" trouvé sur le site de Processing (voir sources).
+Pour la logique de base des cellules (règles de survie et de naissance), je me suis aidé du code "Game of Life" trouvé sur le site de Processing (voir sources https://processing.org/examples/gameoflife.html).
 
