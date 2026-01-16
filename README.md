@@ -8,6 +8,8 @@ C'était un super défi de réapprendre à utiliser Processing avec une approche
 
 Globalement, je suis très satisfaite de mes 4 derniers travaux. Je trouve les avoir bien réussis et ils retranscrivent bien les émotions et les concepts que je voulais explorer.
 
+Chaque projets à une DEMO mp4 à télécharger !
+
 # Liste des projets
 Projet 1 : Projet Test Blue Mandala - Algorithmic drawing
 
